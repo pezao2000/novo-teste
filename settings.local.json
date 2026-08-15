@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.instagram.com)",
+      "WebSearch",
+      "WebFetch(domain:www.genuina.com)"
+    ]
+  }
+}
